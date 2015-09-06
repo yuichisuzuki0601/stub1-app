@@ -1,0 +1,6 @@
+.*
+!/.gitignore
+
+/platforms
+/plugins/ios.json
+/plugins/android.json
